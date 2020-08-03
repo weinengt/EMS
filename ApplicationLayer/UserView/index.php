@@ -374,7 +374,7 @@ span.psw {
 
 
 
-          <h1>Select Your Member Type Hello</h1>
+          <h1>Select Your Member Type Hello People</h1>
 
 
           <hr>
