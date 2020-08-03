@@ -31,7 +31,7 @@ echo '</script>';
           </ol>
 
           <!-- Page Content -->
-          <h1>Order list of equipment</h1>
+          <h1>ORDER LIST OF EQUIPMENT</h1>
           <hr>
 
 <!-- Top menu on small screens -->
